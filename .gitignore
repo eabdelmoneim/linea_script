@@ -1,4 +1,5 @@
 node_modules
 completed/
 *.csv
-*.json
+logs-*.json
+contracts.json
